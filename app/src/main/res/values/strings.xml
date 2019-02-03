@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TableViewDemo</string>
+    <string name="Title">Student Info</string>
+</resources>
